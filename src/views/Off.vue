@@ -1,4 +1,5 @@
 <template>
-   <div> off
+   <div> 
+       <img src="/img/off.jpg">
        </div>
 </template>
